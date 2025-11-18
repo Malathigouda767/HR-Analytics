@@ -1,6 +1,8 @@
 HR-Analytics
 
 ● Extracted 2000 employee’s data within an organization and providing insights with business KPI of Total Male & Female, Sunburst visual of region wise employees.
+
+
 ● Top 10 Designation with turnover%, Monthly distribution of Joinee to Leavers count on Stacked Column chart and Total Staff trend and forecast on Line Visual.
 
 Objective:
